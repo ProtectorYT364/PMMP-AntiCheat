@@ -1,5 +1,5 @@
 <?php
-namespace DustinMcNeese/AC;
+namespace DustinMcNeese\AC;
 
 
 use pocketmine\entity\Effect;
